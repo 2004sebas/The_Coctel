@@ -37,7 +37,6 @@ function renderCard(data) {
         const iconCoctel = document.createElement('i');
         iconCoctel.classList.add('icon-cocktail-mojito-streamline');
 
-
         cardCoctel.appendChild(image);
         cardCoctel.appendChild(information);
         information.appendChild(iconCoctel)
